@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>B-612</title>
+  
+  <subtitle>The little prince</subtitle>
+  <link href="http://wangjueya.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://wangjueya.github.io/"/>
+  <updated>2024-10-29T02:34:36.000Z</updated>
+  <id>http://wangjueya.github.io/</id>
+  
+  <author>
+    <name>艾茜茜</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://wangjueya.github.io/webrtc/"/>
+    <id>http://wangjueya.github.io/webrtc/</id>
+    <published>2025-02-14T08:36:54.150Z</published>
+    <updated>2024-10-29T02:34:36.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;架构图&quot;&gt;架构图&lt;/h2&gt;
+&lt;img src=&quot;/webrtc/Architecture.png&quot; class=&quot;&quot; title=&quot;Architecture&quot;&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>AIAssistant</title>
+    <link href="http://wangjueya.github.io/aiassistant/"/>
+    <id>http://wangjueya.github.io/aiassistant/</id>
+    <published>2025-02-13T10:49:00.000Z</published>
+    <updated>2025-02-14T08:36:09.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    
+    <category term="AI" scheme="http://wangjueya.github.io/tags/AI/"/>
+    
+    <category term="Assistant" scheme="http://wangjueya.github.io/tags/Assistant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DQN practice-maze</title>
+    <link href="http://wangjueya.github.io/practice-maze/"/>
+    <id>http://wangjueya.github.io/practice-maze/</id>
+    <published>2023-12-30T09:47:56.000Z</published>
+    <updated>2024-01-01T12:15:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;系统环境&quot;&gt;系统环境&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;windows + CUDA=11.6&lt;/li&gt;
+&lt;li&gt;miniconda3&lt;/li&gt;
+&lt;li&gt;python=[3.7.12](&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="05-Program-Design" scheme="http://wangjueya.github.io/categories/05-Program-Design/"/>
+    
+    <category term="Algorithm" scheme="http://wangjueya.github.io/categories/05-Program-Design/Algorithm/"/>
+    
+    <category term="DQN" scheme="http://wangjueya.github.io/categories/05-Program-Design/Algorithm/DQN/"/>
+    
+    
+    <category term="DQN" scheme="http://wangjueya.github.io/tags/DQN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DQN</title>
+    <link href="http://wangjueya.github.io/instruction/"/>
+    <id>http://wangjueya.github.io/instruction/</id>
+    <published>2023-12-28T16:44:50.000Z</published>
+    <updated>2023-12-30T17:16:19.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;学习目标&quot;&gt;学习目标&lt;/h2&gt;
+&lt;p&gt;初级：学习包括完整的训练过程和测试。利用argparse 模块实现最简单的参数化运行,完成训练模型的保存和加载。&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="05-Program-Design" scheme="http://wangjueya.github.io/categories/05-Program-Design/"/>
+    
+    <category term="Algorithm" scheme="http://wangjueya.github.io/categories/05-Program-Design/Algorithm/"/>
+    
+    <category term="DQN" scheme="http://wangjueya.github.io/categories/05-Program-Design/Algorithm/DQN/"/>
+    
+    
+    <category term="DQN" scheme="http://wangjueya.github.io/tags/DQN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitBook</title>
+    <link href="http://wangjueya.github.io/gitbook/"/>
+    <id>http://wangjueya.github.io/gitbook/</id>
+    <published>2023-12-14T20:44:36.000Z</published>
+    <updated>2023-12-27T05:53:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;简介&lt;/h2&gt;
+&lt;p&gt;GitBook是一个将markdown文件生成电子书的工具，可以使用在线版本，也可以本地安装 gitbook-cli 本地化电子书&lt;/p&gt;
+&lt;h2 id=&quot;安装及命令简介&quot;&gt;安装及命令简介&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    
+    <category term="代码仓库" scheme="http://wangjueya.github.io/tags/%E4%BB%A3%E7%A0%81%E4%BB%93%E5%BA%93/"/>
+    
+    <category term="GitBook" scheme="http://wangjueya.github.io/tags/GitBook/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQLite</title>
+    <link href="http://wangjueya.github.io/sqlite/"/>
+    <id>http://wangjueya.github.io/sqlite/</id>
+    <published>2023-12-13T15:28:27.000Z</published>
+    <updated>2024-06-07T13:30:44.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;无需下载任何安装包，也无需启动任何数据库服务。就能维护一个SQLite数据库及在Spring程序中使用SQLite数据库。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="06-Frameworks-and-Components" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/"/>
+    
+    <category term="Database" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/Database/"/>
+    
+    
+    <category term="Database" scheme="http://wangjueya.github.io/tags/Database/"/>
+    
+    <category term="SQLite" scheme="http://wangjueya.github.io/tags/SQLite/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GoLang | 入门及进阶使用</title>
+    <link href="http://wangjueya.github.io/golang/"/>
+    <id>http://wangjueya.github.io/golang/</id>
+    <published>2023-12-12T14:57:54.000Z</published>
+    <updated>2023-12-28T05:52:29.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装地址&quot;&gt;安装地址&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://golang.org/dl&quot;&gt;官方地址&lt;/a&gt;  👉  &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="04-Programming-Languages" scheme="http://wangjueya.github.io/categories/04-Programming-Languages/"/>
+    
+    <category term="Go" scheme="http://wangjueya.github.io/categories/04-Programming-Languages/Go/"/>
+    
+    
+    <category term="GoLang" scheme="http://wangjueya.github.io/tags/GoLang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBean</title>
+    <link href="http://wangjueya.github.io/springbean/"/>
+    <id>http://wangjueya.github.io/springbean/</id>
+    <published>2023-11-10T11:27:00.000Z</published>
+    <updated>2023-11-10T08:49:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;重写bean实例&quot;&gt;重写bean实例&lt;/h2&gt;
+&lt;h3 id=&quot;自定义bean覆盖&quot;&gt;自定义bean覆盖&lt;/h3&gt;
+&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="06-Frameworks-and-Components" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/"/>
+    
+    <category term="Spring" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/Spring/"/>
+    
+    
+    <category term="spring" scheme="http://wangjueya.github.io/tags/spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Squid</title>
+    <link href="http://wangjueya.github.io/squid/"/>
+    <id>http://wangjueya.github.io/squid/</id>
+    <published>2023-11-08T14:43:00.000Z</published>
+    <updated>2023-11-20T09:14:32.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;软件安装&quot;&gt;软件安装&lt;/h2&gt;
+&lt;h3 id=&quot;windows安装Squid&quot;&gt;windows安装Squid&lt;/h3&gt;
+&lt;p&gt;在 Windows 平台上安装 Squid 分为以下几个步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;下载 Squid for</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    <category term="Proxy" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/Proxy/"/>
+    
+    
+    <category term="代理" scheme="http://wangjueya.github.io/tags/%E4%BB%A3%E7%90%86/"/>
+    
+    <category term="正向代理" scheme="http://wangjueya.github.io/tags/%E6%AD%A3%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyCharm</title>
+    <link href="http://wangjueya.github.io/pycharm/"/>
+    <id>http://wangjueya.github.io/pycharm/</id>
+    <published>2023-08-23T10:23:30.000Z</published>
+    <updated>2023-08-23T09:12:15.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.jetbrains.com/pycharm/download/other.html&quot;&gt;PyCharm历史版本&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;相关配置&quot;&gt;相关配置&lt;/h2&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    
+    <category term="PyCharm" scheme="http://wangjueya.github.io/tags/PyCharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Huggingface 模型初尝试 | 启动 ChatGLM 模型</title>
+    <link href="http://wangjueya.github.io/chatglm/"/>
+    <id>http://wangjueya.github.io/chatglm/</id>
+    <published>2023-08-16T16:21:51.000Z</published>
+    <updated>2023-12-30T17:16:19.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本系列文章旨在使用 ChatGLM 预处理模型接入业务系统，完成项目助手类插件服务开发调用&lt;/li&gt;
+&lt;li&gt;基本思路是学会使用基础模型、学会微调基础模型、了解并掌握向量数据库的使用(实时数据交互)、完成业务接入</summary>
+        
+      
+    
+    
+    
+    <category term="06-Frameworks-and-Components" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/"/>
+    
+    <category term="Huggingface" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/Huggingface/"/>
+    
+    
+    <category term="ChatGLM" scheme="http://wangjueya.github.io/tags/ChatGLM/"/>
+    
+    <category term="Huggingface" scheme="http://wangjueya.github.io/tags/Huggingface/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Postgresql</title>
+    <link href="http://wangjueya.github.io/postgresql/"/>
+    <id>http://wangjueya.github.io/postgresql/</id>
+    <published>2023-07-16T20:24:00.000Z</published>
+    <updated>2023-11-09T03:30:31.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;yum源安装&quot;&gt;yum源安装&lt;/h2&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token</summary>
+        
+      
+    
+    
+    
+    <category term="06-Frameworks-and-Components" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/"/>
+    
+    <category term="Database" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/Database/"/>
+    
+    
+    <category term="Database" scheme="http://wangjueya.github.io/tags/Database/"/>
+    
+    <category term="Postgresql" scheme="http://wangjueya.github.io/tags/Postgresql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP-Proxy-Servlet</title>
+    <link href="http://wangjueya.github.io/http-proxy-servlet/"/>
+    <id>http://wangjueya.github.io/http-proxy-servlet/</id>
+    <published>2023-07-14T09:00:00.000Z</published>
+    <updated>2023-07-17T06:04:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;应用场景&quot;&gt;应用场景&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;外网用户 A , 内网服务器 B (处理用户认证), 和资源提供服务器 C (无用户认证)&lt;br&gt;
+对于 A 需要访问 C 资源, 且需要保证访问权限控制, 故通过 B</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    <category term="Proxy" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/Proxy/"/>
+    
+    
+    <category term="spring" scheme="http://wangjueya.github.io/tags/spring/"/>
+    
+    <category term="Proxy" scheme="http://wangjueya.github.io/tags/Proxy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Proxy</title>
+    <link href="http://wangjueya.github.io/proxy/"/>
+    <id>http://wangjueya.github.io/proxy/</id>
+    <published>2023-07-14T09:00:00.000Z</published>
+    <updated>2023-07-17T06:04:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;HTTP代理软件是指可以将客户端的HTTP请求转发给目标服务器，并将服务器的响应返回给客户端的软件。&lt;/p&gt;
+&lt;h2 id=&quot;正向代理-Forward-Proxy&quot;&gt;正向代理 (Forward</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    <category term="Proxy" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/Proxy/"/>
+    
+    
+    <category term="代理" scheme="http://wangjueya.github.io/tags/%E4%BB%A3%E7%90%86/"/>
+    
+    <category term="正向代理" scheme="http://wangjueya.github.io/tags/%E6%AD%A3%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+    <category term="反向代理" scheme="http://wangjueya.github.io/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ThreadLocal</title>
+    <link href="http://wangjueya.github.io/threadlocal/"/>
+    <id>http://wangjueya.github.io/threadlocal/</id>
+    <published>2023-06-07T16:00:00.000Z</published>
+    <updated>2023-07-17T06:04:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Spring请求的一次性缓存&quot;&gt;Spring请求的一次性缓存&lt;/h3&gt;
+&lt;p&gt;Spring项目中部分参数配置不想通过接口层层传入, 使用一次性缓存在本次请求中全局共用这些缓存&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-java&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="04-Programming-Languages" scheme="http://wangjueya.github.io/categories/04-Programming-Languages/"/>
+    
+    <category term="Java" scheme="http://wangjueya.github.io/categories/04-Programming-Languages/Java/"/>
+    
+    
+    <category term="Stream" scheme="http://wangjueya.github.io/tags/Stream/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信小程序组件</title>
+    <link href="http://wangjueya.github.io/wechat-components/"/>
+    <id>http://wangjueya.github.io/wechat-components/</id>
+    <published>2023-03-07T16:10:32.000Z</published>
+    <updated>2023-04-11T14:18:01.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;微信小程序使用NPM加载组件&quot;&gt;微信小程序使用NPM加载组件&lt;/h2&gt;
+&lt;h2 id=&quot;气泡弹出框&quot;&gt;气泡弹出框&lt;/h2&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="06-Frameworks-and-Components" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/"/>
+    
+    <category term="WeChat" scheme="http://wangjueya.github.io/categories/06-Frameworks-and-Components/WeChat/"/>
+    
+    
+    <category term="微信小程序" scheme="http://wangjueya.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jenkins</title>
+    <link href="http://wangjueya.github.io/jenkins/"/>
+    <id>http://wangjueya.github.io/jenkins/</id>
+    <published>2023-01-31T10:51:15.000Z</published>
+    <updated>2023-02-01T10:11:12.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;更改jenkins默认工作目录&quot;&gt;更改jenkins默认工作目录&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;查看jenkins默认工作目录&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Manage Jenkins &amp;gt; System</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    
+    <category term="Jenkins" scheme="http://wangjueya.github.io/tags/Jenkins/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据库连接工具对比分析</title>
+    <link href="http://wangjueya.github.io/shu-ju-ku-lian-jie-gong-ju-dui-bi-fen-xi/"/>
+    <id>http://wangjueya.github.io/shu-ju-ku-lian-jie-gong-ju-dui-bi-fen-xi/</id>
+    <published>2022-12-02T16:11:05.000Z</published>
+    <updated>2023-12-13T10:21:38.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;DBeaver-推荐&quot;&gt;DBeaver(推荐)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;是否免费: 免费开源社区版 及 商业版&lt;/li&gt;
+&lt;li&gt;下载地址: &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    
+    <category term="Database" scheme="http://wangjueya.github.io/tags/Database/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DataGrip连接达梦数据库</title>
+    <link href="http://wangjueya.github.io/datagrip-lian-jie-da-meng-shu-ju-ku/"/>
+    <id>http://wangjueya.github.io/datagrip-lian-jie-da-meng-shu-ju-ku/</id>
+    <published>2022-12-02T15:33:05.000Z</published>
+    <updated>2022-12-02T08:45:11.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;a-准备达梦驱动&quot;&gt;a. 准备达梦驱动&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;可从maven本地仓库中获取&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;line-numbers language-markup&quot; data-language=&quot;markup&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="07-Programming-Assistant" scheme="http://wangjueya.github.io/categories/07-Programming-Assistant/"/>
+    
+    
+    <category term="Database" scheme="http://wangjueya.github.io/tags/Database/"/>
+    
+    <category term="DataGrip" scheme="http://wangjueya.github.io/tags/DataGrip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA | 入门及进阶使用</title>
+    <link href="http://wangjueya.github.io/java/"/>
+    <id>http://wangjueya.github.io/java/</id>
+    <published>2022-11-14T18:08:00.000Z</published>
+    <updated>2022-12-28T05:34:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;使用文档&quot;&gt;使用文档&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/index.html&quot;&gt;官方文档&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;java字符串动态加载调用&lt;br&gt;
+&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="04-Programming-Languages" scheme="http://wangjueya.github.io/categories/04-Programming-Languages/"/>
+    
+    <category term="Java" scheme="http://wangjueya.github.io/categories/04-Programming-Languages/Java/"/>
+    
+    
+    <category term="Java" scheme="http://wangjueya.github.io/tags/Java/"/>
+    
+  </entry>
+  
+</feed>
